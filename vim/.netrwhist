@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/infocore/Devl/hostmirror/initrd'
+let g:netrw_dirhist_2='/usr/src'
+let g:netrw_dirhist_3='/usr/src/kernels'
+let g:netrw_dirhist_4='/usr/src/kernels/2.6.32-573.7.1.el6.x86_64'
+let g:netrw_dirhist_5='/usr/src/kernels/2.6.32-573.7.1.el6.x86_64/kernel'
+let g:netrw_dirhist_6='/home/infocore/Devl/osnstreamer/LClient/spec'
+let g:netrw_dirhist_7='/home/infocore/Devl/hostmirror/initrd'
+let g:netrw_dirhist_8='/home/infocore/Devl/hostmirror/SPECS'
+let g:netrw_dirhist_9='/home/infocore/Devl/hostmirror'
